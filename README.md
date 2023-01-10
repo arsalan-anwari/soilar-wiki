@@ -1,5 +1,9 @@
+# Soilar 
+[![INTRODUCTION_VIDEO](https://img.youtube.com/vi/FCqLTdU8yPg/0.jpg)](https://www.youtube.com/watch?v=FCqLTdU8yPg)
 
-# About
+- *Watch the introduction video above* 
+
+## About
 
 Soilar is the go-to solution which allows professionals and consumers in the agricultural field to buy backwards compatible, modular and interchangeable components from different brands to get a fair and competitive price which is highly expandable with new unique features throughout the future. With the online platform you can also easily connect to professionals and freelancers in the field, get advice and guidance on new or existing technologies that can help your company grow or sell and advertise your new upcoming product to potential clients in the agricultural sector.
 
