@@ -5,13 +5,13 @@ Soilar is the go-to solution which allows professionals and consumers in the agr
 
 It is made of multiple different subprojects that in the end will result in the final product. The subprojects consist of:
 
-    Researching how to increase crop yield in the agriculture sector by using smart devices like an IoT system to decrease the usage of fertilizers, water, nutrients and mechanical manual labor but still giving the target demographic the option to configure the system to an extent that is usable to them. -> Done
-    Developing the radio software using the LoRa project. -> Done
-    Writing the firmware for all the different embedded components used -> Pending
-    Designing the outer case of the system. -> Pending
-    Designing the PCB motherboard of the system. -> Pending
-    Creating the front end application -> Not started
-    Setting up a server and managing the backend in .NET -> Not started
+- Researching how to increase crop yield in the agriculture sector by using smart devices like an IoT system to decrease the usage of fertilizers, water, nutrients and mechanical manual labor but still giving the target demographic the option to configure the system to an extent that is usable to them. -> Done
+- Developing the radio software using the LoRa project. -> Done
+- Writing the firmware for all the different embedded components used -> Pending
+- Designing the outer case of the system. -> Pending
+- Designing the PCB motherboard of the system. -> Pending
+- Creating the front end application -> Not started
+- Setting up a server and managing the backend in .NET -> Not started
 
 ## Research
 
