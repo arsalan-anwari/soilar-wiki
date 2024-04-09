@@ -17,6 +17,16 @@ It is made of multiple different subprojects that in the end will result in the 
 - Creating the front end application -> Not started
 - Setting up a server and managing the backend in .NET -> Not started
 
+## Projects
+
+1) [soilar-devboard-kicad](https://github.com/arsalan-anwari/soilar-devboard-kicad) : PCB designs for soilar-module-template to test with soilar-mainframe 
+2) [soilar-mainframe](https://github.com/arsalan-anwari/soilar-mainframe) : Firmware for LoRa gateway
+3) [soilar-module-template](https://github.com/arsalan-anwari/soilar-module-template) : firmware for LoRa endnode and different sensors:
+  a) [rfm95w](https://github.com/arsalan-anwari/rfm95w) : firmware for loRa transceiver
+  b) [hc06](https://github.com/arsalan-anwari/hc06) : firmware for bluetooth receiver
+  c) [dht](https://github.com/arsalan-anwari/dht) : firmware for temprature sensor
+4) [ata8520e](https://github.com/arsalan-anwari/soilar-wiki): firmware for sigfox tranceiver used in expirment as replacement for LoRa-PHY
+
 ## Research
 
 In the field of soil science, there are already many discoveries made on how to design smart devices to measure and regulate the pH or moisture level. Whilst these being good ways to increase the crop yield, I have yet to see a system that goes into the more detailed and complicated aspects of farming like fungus detection and prevention, purification of filthy water, preventing diseases due to intensive tillage, checking and regulating nutrients in the soil and increasing the fertility of the soil by slowing down nitrification. When looking at existing solutions like the following example for a pH measurement IoT system or other studies online, we can clearly see a pattern of systems that only measure and regulate one or more aspects of the soil. And the systems that do measure the remaining aspects are mostly too expensive for everyone to afford. Another issue with current systems, is the fact that they mainly focus on measuring parameters in the soil and not so much on lesser known aspects of plant science, like in the air and others.
